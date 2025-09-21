@@ -1,39 +1,34 @@
-# My Portfolio Website
+# Personal Portfolio Template
 
-This is my personal portfolio website showcasing my skills, projects, resume, and contact information. It features a sidebar that is always visible with my personal details.
+This repository contains a **template for a personal portfolio website**. It is designed to help developers quickly create a professional online presence.  
 
-## Table of Contents
-- [About](#about)
-- [Projects](#projects)
-- [Resume](#resume)
-- [Contact](#contact)
-- [Sidebar](#sidebar)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [License](#license)
+The template includes the following main sections:  
 
-## About
-This section introduces me and highlights my professional background, skills, and goals. It can include a short bio and a professional photo.
+## Features
 
-## Projects
-Here I showcase some of my projects:
-- **Project 1:** Description, technologies used, and link to live/demo.
-- **Project 2:** Description, technologies used, and link to live/demo.
-- **Project 3:** Description, technologies used, and link to live/demo.
+- **About Me:** A section to introduce yourself, your background, skills, and a short bio.  
+- **Projects:** Showcase your projects with descriptions, links, and optional screenshots.  
+- **Resume:** A dedicated section to display your resume or allow visitors to download it.  
+- **Contact:** A contact form for visitors to send messages directly.  
+- **Persistent Sidebar:** A sidebar that is always visible and contains personal details such as:
+  - Name
+  - Profile picture
+  - Email
+  - Phone number
+  - Links to social media (LinkedIn, GitHub, etc.)
+  - Short bio or tagline  
 
-Each project can include screenshots or links to the GitHub repositories.
+## Tech Stack
 
-## Resume
-A dedicated section to view or download my resume.  
-- [Download Resume (PDF)](link-to-your-resume.pdf)
+This template is built using modern web technologies:  
 
-## Contact
-A contact form where visitors can send me a message:
+- **HTML5** – For structure and content.  
+- **CSS3** – For styling and responsive design.  
+- **JavaScript** – For interactive features like the contact form.  
+- Optional: Frameworks like **Bootstrap**, **Tailwind CSS**, or **React** can be integrated.  
 
-```html
-<form>
-  <input type="text" name="name" placeholder="Your Name" required>
-  <input type="email" name="email" placeholder="Your Email" required>
-  <textarea name="message" placeholder="Your Message" required></textarea>
-  <button type="submit">Send</button>
-</form>
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/my-portfolio-template.git
